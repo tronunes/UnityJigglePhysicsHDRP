@@ -1,2 +1,2 @@
 deploy:
-	git subtree push --prefix Assets/JigglePhysics UnityJigglePhysicsHDRPtest main
+	git subtree push --prefix Assets/JigglePhysics UnityJigglePhysicsHDRPtest upm
