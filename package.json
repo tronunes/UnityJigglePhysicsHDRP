@@ -3,7 +3,7 @@
     "displayName": "Jiggle Physics",
     "version": "4.7.4",
     "unity": "2020.3",
-    "description": "Soft-body squash-and-stretch physics for SkinnedMeshRenderers."
+    "description": "Soft-body squash-and-stretch physics for SkinnedMeshRenderers.",
 	
 	"repository": {
         "type": "git",
